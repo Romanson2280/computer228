@@ -1,0 +1,1160 @@
+.pho {
+  width: 101vw;
+  height: 50vw;
+  margin-left: 0vw;
+  margin-top: -0.5vw;
+}
+
+header {
+  margin: -1vw;
+}
+
+body {
+  background-color: black;
+  overflow-x: hidden;
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614288226_24-p-chernii-fon-tumbler-27.jpg);
+}
+
+.photo {
+  top: 2.3vw;
+  margin-left: 4.5vw;
+  position: absolute;
+  width: 2.1vw;
+  height: 2.1vw;
+}
+
+.nav {
+  margin-left: 25vw;
+  margin-top: -47.6vw;
+}
+
+.btn {
+  padding: 0.7vw 1.8vw;
+  color: white;
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);  
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 83.5vw;  
+  top: -48.5vw;
+  left: 3vw;
+  position: relative;
+  border: #C89AFC 1px solid;
+  border-radius: 100vw;
+  font-weight: 400;
+  }
+  
+  .btn:active{
+    font-size: 1vw;
+  }
+
+  .nav-item {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 0.9vw;
+    padding: 0 1.5vw;
+  }
+
+  .nav {
+    position: absolute;
+    top: 50vw;
+    left: 3vw;
+  }
+
+.text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 3.5vw;
+    color: #FFFFFF;
+    margin-top: -39vw;
+    margin-left: 13vw;
+}
+
+.op {
+  margin-top: 0.8vw;
+}
+
+.kvadrats {
+  background-color: #121212;
+  width: 6.7vw;
+  height: 6.7vw;
+  margin-top: 5vw;
+  margin-left: 0.15vw;
+  position: relative;
+  top: -1.7vw;
+}
+
+.one-eight {
+  font-size: 2.3vw;
+  margin-left: 1.95vw;
+  top: 1.3vw;
+  position: absolute;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+}
+
+.text-kv {
+  color: #6b6a6a;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1vw;
+  margin-left: 2.1vw;
+  top: 4.1vw;
+}
+
+.kvadrats1 {
+  background-color: #121212;
+  width: 6.7vw;
+  height: 6.7vw;
+  margin-top: 5vw;
+  margin-left: 0.15vw;
+  position: relative;
+  top: -13.35vw;
+  display: inline-block;
+  margin-left: 1.25vw; 
+  left: 7.75vw;
+}
+
+.one-eight1 {
+  font-size: 2.3vw;
+  margin-left: 1.95vw;
+  top: 1.3vw;
+  position: absolute;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+}
+
+.text-kv1 {
+  color: #6b6a6a;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1vw;
+  margin-left: 2.1vw;
+  top: 4.1vw;
+}
+
+.poloska {
+  background-color: #121212;
+  width: 115vw;
+  height: 6vw;
+  left: -25vw;
+  top: -3.1vw;
+  position: relative;
+}
+
+.btn-n {
+  padding: 0.7vw 1.8vw;
+  color: white;
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 85vw;  
+  top: -9.1vw;
+  left: -85vw;
+  position: relative;
+  border: #451046 1px solid;
+  border-radius: 100vw;
+  font-weight: 700;
+  white-space: nowrap;
+}
+  
+  .btn-n:active{
+    font-size: 1vw;
+  }
+
+.text-p {
+  color: #6b6a6a;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 0.9vw;
+  margin-left: 13.5vw;
+  margin-top: -11.8vw;
+  position: relative;
+}
+
+.s {
+  margin-top: 0.8vw;
+}
+
+.num {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-size: 0.9vw;
+  font-weight: 700;
+  position: relative;
+  text-align: center;
+  margin-left: -33.7vw;
+  margin-top: -2.85vw;
+}
+
+.onenine {
+  margin-top: 0.7vw;
+}
+
+.polos {
+  font-size: 0.3vw;
+  width: 35vw;
+  background: #FFFFFF;
+}
+
+progress::-webkit-progress-value { 
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+}
+
+progress::-webkit-progress-bar {
+background: #FFFFFF;
+}
+
+.polo {
+  margin-left: 33vw;
+  margin-top: -4.5vw;
+  position: relative;
+}
+
+.text-op {
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  font-weight: 400;
+  font-size: 0.9vw;
+  margin-top: -2.9vw;
+  margin-left: 32.95vw;
+  position: relative;
+}
+
+.four {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 0.9vw;
+  color: #FFFFFF;
+  position: relative;
+  margin-left: 44vw;
+  margin-top: -1.1vw;
+}
+
+.zero {
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  font-weight: 400;
+  font-size: 0.9vw;
+  margin-top: 1.4vw;
+  margin-left: 32.95vw;
+  position: relative;
+}
+
+.million {
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  font-weight: 400;
+  font-size: 0.9vw;
+  margin-top: -1vw;
+  margin-left: 63.45vw;
+  position: relative;
+}
+
+.y1 {
+  width: 22vw; 
+  height: 22vw; 
+  top: 62.4vw; 
+  left: 13.9vw;
+  z-index: 999;
+  position: absolute; 
+} 
+
+.kv {
+border-image: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%) 150;
+border-width: 1.3vw;
+border-style: solid;
+width: 23vw;
+height: 23vw;
+margin-top: 11.25vw;
+margin-left: 12vw;
+}
+
+.text-l {
+  color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 2.6vw;
+  letter-spacing: 0.03vw;
+  margin-left: 47vw;
+  margin-top: -21vw;
+}
+
+.text0 {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9vw;
+  font-weight: 400;
+  letter-spacing: 0.03vw;
+  color: #FFFFFF;
+  margin-top: 2.5vw;
+  margin-left: 47.25vw;
+  word-spacing: 0.1vw;
+  line-height: 1.3vw;
+}
+
+.vse1 {
+  margin-left: -0.9vw;
+}
+
+.img {
+  height: 4.1vw;
+  width: 4.1vw;
+  margin-top: 17vw;
+  margin-left: 12vw;
+}
+
+.text-po {
+  font-size: 2.6vw;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 0.03vw;
+  margin-left: 18.05vw;
+  margin-top: -3.75vw;
+}
+
+.text-9 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  line-height: 1.5vw;
+  margin-left: 12.2vw;
+  margin-top: 1.5vw;
+ font-size: 0.85vw;
+}
+
+.kv0 {
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  width: 17.9vw;
+  height: 4.5vw;
+  margin-left: 12.2vw;
+  margin-top: 6.9vw;
+}
+
+.kv1 {
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  width: 17.9vw;
+  height: 3.3vw;
+  margin-left: 30.1vw;
+  margin-top: -3.8vw;
+}
+
+.kv2 {
+ background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+ width: 17.8vw;
+ height: 2.15vw;
+ margin-left: 48.03vw;
+ margin-top: -2.55vw;
+}
+
+.kv3 {
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  width: 17.85vw;
+  height: 0.8vw;
+  margin-left: 65.85vw;
+  margin-top: -1.45vw;
+}
+
+.one1 {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 2vw;
+  margin-left: 12vw;
+  margin-top: -6.55vw;
+}
+
+.one2 {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 2vw;
+  margin-left: 30.1vw;
+  margin-top: -2.3vw;
+  letter-spacing: 0.03vw;
+}
+
+.one3 {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 2vw;
+  margin-left: 47.8vw;
+  margin-top: -2.4vw;
+  letter-spacing: 0.03vw;
+}
+
+.text4 {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 2vw;
+  margin-left: 65.7vw;
+  margin-top: -2.4vw;
+  letter-spacing: 0.03vw;
+}
+
+.opana {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  color: #6b6a6a; 
+}
+
+.s1 {
+  margin-top: 6.85vw;
+  margin-left: 12.1vw;
+}
+
+.g {
+  margin-left: 30vw;
+  margin-top: -3.9vw;
+}
+
+.o1 {
+  margin-left: 65.7vw;
+  margin-top: -4vw;
+}
+
+.z {
+  margin-left: 47.85vw;
+  margin-top: -3.9vw;
+}
+
+.text-cent {
+  text-align: center;
+  font-size: 2.7vw;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-top: 11.1vw;
+}
+
+.photo1 {
+  margin-left: 22vw;
+  margin-top: 6vw;
+  width: 5.4vw;
+  height: 5.4vw;
+}
+
+.texttt {
+  font-weight: 500;
+  letter-spacing: 0.03vw;
+  color: #FFFFFF;
+  font-size: 1.3vw;
+  margin-left: 18vw;
+  margin-top: 1.7vw;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.opl {
+  margin-left: 1.5vw;
+  margin-top: 0.2vw;
+}
+
+.pm {
+  letter-spacing: 0.03vw;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 0.8vw;
+  color: #6b6a6a;
+  margin-left: 17vw;
+  margin-top: 2.3vw;
+}
+
+.t12 {
+  margin-left: -1.7vw;
+  margin-top: 0.5vw;
+}
+
+.t19 {
+  margin-left: -0.8vw;
+  margin-top: -0.5vw;
+}
+
+.t25 {
+  margin-left: 2.3vw;
+  margin-top: -0.5vw;
+}
+
+.photo11 {
+  margin-left: 22vw;
+  margin-top: 6vw;
+  width: 5.4vw;
+  height: 5.4vw;
+}
+
+.texttt1 {
+  font-weight: 500;
+  letter-spacing: 0.03vw;
+  color: #FFFFFF;
+  font-size: 1.3vw;
+  margin-left: 19.5vw;
+  margin-top: 1.7vw;
+  font-family: "Roboto", sans-serif;
+}
+
+.pm1 {
+  letter-spacing: 0.03vw;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 0.8vw;
+  color: #6b6a6a;
+  margin-left: 17vw;
+  margin-top: 2.3vw;
+}
+
+.op3 {
+  margin-left: -3.8vw;
+}
+
+.pop1 {
+  margin-left: 23.1vw;
+  margin-top: -24.2vw;
+}
+
+.photo13 {
+  margin-left: 22vw;
+  margin-top: 6vw;
+  width: 5.4vw;
+  height: 5.4vw;
+}
+
+.texttt3 {
+  font-weight: 500;
+  letter-spacing: 0.03vw;
+  color: #FFFFFF;
+  font-size: 1.3vw;
+  margin-left: 19.5vw;
+  margin-top: 1.7vw;
+  font-family: "Roboto", sans-serif;
+}
+
+.oip {
+  margin-left: -2.7vw;
+}
+
+.pop3 {
+  margin-left: 45.4vw;
+  margin-top: -24.2vw;
+}
+
+.vsei1o {
+  align-items: center;
+}
+
+.pol-okr-1 {
+  height: 6.6;
+  width: 6.6vw;
+  margin-left: 10.6vw;
+  margin-top: 10.7vw;
+}
+
+.text-partners {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.7vw;
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 0.03vw;
+  margin-left: 18.05vw;
+  margin-top: -5.4vw;
+}
+
+.msi1 {
+  margin-left: 7.3vw;
+  height: 5vw;
+  width: 10vw;
+}
+
+.msi-s {
+  margin-top: 6vw;
+  margin-left: 6.5vw;
+}
+
+.one-hr {
+  border: 0.00001vw solid #555252;
+  width: 66.95vw;
+  margin-left: 11.45vw;
+  margin-top: 1.6vw;
+}
+
+.hr1 {
+  border: 0.00001vw solid #555252;
+  transform: rotate(90deg);
+  width: 19.5vw;
+  margin-left: 13vw;
+  margin-top: 0.1vw;
+}
+
+.hr2 {
+  border: 0.00001vw solid #555252;
+  transform: rotate(90deg);
+  width: 19.5vw;
+  margin-left: 30.2vw;
+  margin-top: -0.1vw;
+}
+
+.hr3 {
+  border: 0.00001vw solid #555252;
+  transform: rotate(90deg);
+  width: 19.5vw;
+  margin-left: 48vw;
+  margin-top: -0.15vw;
+}
+
+.hrs-verts {
+  margin-top: -10vw;
+  margin-left: 5vw;
+}
+
+.pols0 {
+  width: 6.6vw;
+  margin-top: 22.5vw;
+  margin-left: 42.6vw;
+}
+
+.text-pos {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.7vw;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-left: 32.4vw;
+  margin-top: 3.5vw;
+}
+
+.text-90 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  line-height: 1.5vw;
+  margin-left: 35.2vw;
+  margin-top: 2vw;
+  font-size: 0.85vw;
+}
+
+.opana-gang {
+  margin-left: 4vw;
+}
+
+.hr-gradient {
+  border: 0.25vw solid #C89AFC;
+  transform: rotate(90deg);
+  width: 32vw;
+  margin-left: 29.55vw;
+  margin-top: 20vw;
+}
+
+.week {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  font-size: 0.85vw;
+  margin-left: 37.6vw;
+  margin-top: -9.7vw;
+}
+
+.hr-op {
+  border: 0.00001vw solid #555252;
+  width: 2.15vw;
+  margin-left: 42.5vw;
+  margin-top: 1vw;
+}
+
+.text092 {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  color: #FFFFFF;
+  margin-left: 31.6vw;
+  margin-top: -0.5vw;
+}
+
+.kotor {
+  margin-left: -2.2vw;
+}
+
+.week3 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  margin-left: 37.6vw;
+  margin-top: 4.4vw;
+  font-size: 0.85vw;
+}
+
+.polos9 {
+  border: 0.00001vw solid #555252;
+  width: 2.15vw;
+  margin-left: 42.5vw;
+  margin-top: 1vw;
+}
+
+.text-0t {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  color: #FFFFFF;
+  margin-left: 31.6vw;
+  margin-top: -0.3vw;
+}
+
+.kotor1 {
+  margin-left: -2.2vw;
+}
+
+.week5 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  margin-left: 37.6vw;
+  margin-top: 4.4vw;
+  font-size: 0.85vw;
+}
+
+.polosio {
+  border: 0.00001vw solid #555252;
+  width: 2.15vw;
+  margin-left: 42.5vw;
+  margin-top: 0.9vw;
+}
+
+.texttes {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  color: #FFFFFF;
+  margin-left: 31.6vw;
+  margin-top: -0.3vw;
+}
+
+.koto2 {
+  margin-left: -2.2vw;
+}
+
+.week7 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  margin-left: 37.6vw;
+  margin-top: 4.4vw;
+  font-size: 0.85vw;
+}
+
+.polos95 {
+  border: 0.00001vw solid #555252;
+  width: 2.15vw;
+  margin-left: 42.5vw;
+  margin-top: 0.9vw;
+}
+
+.texttes1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  color: #FFFFFF;
+  margin-left: 31.6vw;
+  margin-top: -0.3vw;
+}
+
+.kotor3 {
+  margin-left: -2.2vw;
+}
+
+.vse-weeks {
+  margin-top: -16vw;
+  margin-left: 0.8vw;
+}
+
+.week2 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  margin-left: 35.3vw;
+  margin-top: 4.4vw;
+  font-size: 0.85vw;
+}
+
+.polos99 {
+  border: 0.00001vw solid #555252;
+  width: 2.15vw;
+  margin-left: 31vw;
+  margin-top: 0.9vw;
+}
+
+.oips {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  color: #FFFFFF;
+  margin-left: 35.3vw;
+  margin-top: -0.3vw;
+}
+
+.lop {
+  margin-left: 14.8vw;
+  margin-top: -31.5vw;
+}
+
+.week92 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #8b8989; 
+  line-height: 1.5vw;
+  margin-left: 35.3vw;
+  margin-top: 4.4vw;
+  font-size: 0.85vw;
+}
+
+.lop1 {
+  margin-top: 5.9vw;
+  margin-left: 15vw;
+}
+
+.lop5 {
+  margin-top: 5.8vw;
+  margin-left: 15vw;
+}
+
+.ph-okrv {
+  width: 6.6vw;
+  margin-top: 15vw;
+  margin-left: 10vw;
+}
+
+.prep {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.7vw;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-left: 18.8vw;
+  margin-top: -1.7vw;
+  letter-spacing: 0.03vw;
+}
+
+.roman-1 {
+  border-radius: 100vw;
+  width: 12vw;
+  margin-left: 17vw;
+  margin-top: 6.2vw;
+}
+
+.roman-name {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5vw;
+  margin-left: 17vw;
+  margin-top: 1.6vw;
+  font-weight: 500;
+  color: #FFFFFF;
+  letter-spacing: 0.03vw;
+}
+
+.roman-desc {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin-left: 20vw;
+  margin-top: 1.25vw;
+}
+
+.roman-btn {
+  padding: 0.7vw 1.5vw;
+  color: white;
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614288226_24-p-chernii-fon-tumbler-27.jpg");
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 18.5vw;  
+  top: 2vw;
+  left: 1vw;
+  position: relative;
+  border: #FFFFFF 1px solid;
+  border-radius: 100vw;
+  font-weight: 400;
+  }
+  
+.roman-btn:active{
+  font-size: 1vw;
+  }
+
+.vse-r {
+  margin-left: -0.1vw;
+}
+
+.artem-1 {
+  border-radius: 100vw;
+  width: 12vw;
+  margin-left: 17vw;
+  margin-top: 6.2vw;
+}
+
+.artem-name {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5vw;
+  margin-left: 17vw;
+  margin-top: 1.6vw;
+  font-weight: 500;
+  color: #FFFFFF;
+  letter-spacing: 0.03vw;
+}
+
+.artem-desc {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin-left: 20vw;
+  margin-top: 1.25vw;
+}
+
+.artem-btn {
+  padding: 0.7vw 1.5vw;
+  color: white;
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614288226_24-p-chernii-fon-tumbler-27.jpg");
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 18.5vw;  
+  top: 2vw;
+  left: 1.5vw;
+  position: relative;
+  border: #FFFFFF 1px solid;
+  border-radius: 100vw;
+  font-weight: 400;
+  }
+  
+  .artem-btn:active{
+    font-size: 1vw;
+  }
+
+.vse-rs {
+  margin-left: -0.1vw;
+}
+
+.vse-yarik {
+  margin-left: 25.7vw;
+  margin-top: -26.8vw;
+}
+
+.yarik-1 {
+  border-radius: 100vw;
+  width: 12vw;
+  margin-left: 17vw;
+  margin-top: 6.2vw;
+}
+
+.yarik-name {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5vw;
+  margin-left: 17vw;
+  margin-top: 1.6vw;
+  font-weight: 500;
+  color: #FFFFFF;
+  letter-spacing: 0.03vw;
+}
+
+.yarik-desc {
+  font-family: "Roboto", sans-serif;
+  font-size: 1vw;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin-left: 20vw;
+  margin-top: 1.25vw;
+}
+
+.yarik-btn {
+  padding: 0.7vw 1.5vw;
+  color: white;
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614288226_24-p-chernii-fon-tumbler-27.jpg);
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 18.5vw;  
+  top: 2vw;
+  left: 1.5vw;
+  position: relative;
+  border: #FFFFFF 1px solid;
+  border-radius: 100vw;
+  font-weight: 400;
+}
+  
+.yarik-btn:active{
+    font-size: 1vw;
+}
+
+.vse-rs5 {
+  margin-left: -0.1vw;
+}
+
+.vse-yarik {
+  margin-left: 25.7vw;
+  margin-top: -26.8vw;
+}
+
+.twofr {
+  margin-left: 25.5vw;
+  margin-top: -26.8vw;
+}
+
+.states {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.7vw;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 12vw;
+}
+
+.text-91 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #6b6a6a; 
+  line-height: 1.5vw;
+  text-align: center;
+  font-size: 0.85vw;
+  margin-top: 1.8vw;
+}
+
+.opana-gang1 {
+  margin-left: 0vw;
+}
+
+.email {
+  padding: 0.65vw 6vw;
+  color: white;
+  background: rgb(95, 95, 95);
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 18.5vw;  
+  top: 2vw;
+  left: 16vw;
+  position: relative;
+  border-radius: 100vw;
+  font-weight: 400;
+  }
+  
+.pop-pop {
+  padding: 0.7vw 1.8vw;
+  color: white;
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8vw;
+  letter-spacing: 0.03vw;
+  margin-left: 85vw;  
+  top: -0.5vw;
+  left: -35vw;
+  position: relative;
+  border: #451046 1px solid;
+  border-radius: 100vw;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.pop-pop:active{
+  font-size: 1vw;
+}
+
+.btn-fot {
+  margin-left: 2.5vw;
+  margin-top: 0.7vw;
+}
+
+.vk {
+  border-radius: 100vw;
+  width: 3vw;
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  height: 3vw;
+  margin-left: 41.5vw;
+  margin-top: 2vw;
+}
+
+.vk-t {
+  margin-left: 42.3vw;
+  top: -1.8vw;
+  position: relative;
+}
+
+.yt {
+  border-radius: 100vw;
+  width: 3vw;
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  height: 3vw;
+  margin-left: 46vw;
+  margin-top: -3.9vw;
+}
+
+.yt-t {
+  margin-left: 46.85vw;
+  top: -2.15vw;
+  position: relative;
+}
+
+.fc {
+  border-radius: 100vw;
+  width: 3vw;
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  height: 3vw;
+  margin-left: 50.5vw;
+  margin-top: -4.45vw;
+}
+
+.fc-t {
+  margin-left: 51.7vw;
+  top: -2.1vw;
+  position: relative;
+}
+
+.in {
+  border-radius: 100vw;
+  width: 3vw;
+  background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+  height: 3vw;
+  margin-left: 55vw;
+  margin-top: -4.2vw;
+}
+
+.in-t {
+  width: 1.4vw;
+  margin-left: 55.85vw;
+  top: -2.2vw;
+  position: relative;
+}
+
+.int {
+ width: 0.7vw;
+ margin-left: -1.25vw;
+ top: -2.55vw;
+ position: relative;
+}
+
+.tochka {
+ border-radius: 100vw;
+  width: 0.1vw;
+  height: 0.1vw;
+  background: #FFFFFF;
+  margin-left: 56.9vw;
+  position: relative;
+  top: -3.55vw;
+}
+
+input::placeholder {
+  color: rgb(228, 227, 227);
+  font-weight: 400;
+  left: -5vw;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+border: 0;
+text-align: left;
+}
